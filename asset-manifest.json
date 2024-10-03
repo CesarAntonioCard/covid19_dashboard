@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CesarAntonioCard/covid19_dashboard/static/css/main.7c697798.css",
+    "main.js": "/CesarAntonioCard/covid19_dashboard/static/js/main.87e3e7f9.js",
+    "static/js/453.4f3aac65.chunk.js": "/CesarAntonioCard/covid19_dashboard/static/js/453.4f3aac65.chunk.js",
+    "index.html": "/CesarAntonioCard/covid19_dashboard/index.html",
+    "main.7c697798.css.map": "/CesarAntonioCard/covid19_dashboard/static/css/main.7c697798.css.map",
+    "main.87e3e7f9.js.map": "/CesarAntonioCard/covid19_dashboard/static/js/main.87e3e7f9.js.map",
+    "453.4f3aac65.chunk.js.map": "/CesarAntonioCard/covid19_dashboard/static/js/453.4f3aac65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c697798.css",
+    "static/js/main.87e3e7f9.js"
+  ]
+}
